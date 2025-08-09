@@ -30,12 +30,12 @@ Animation d’une communauté Twitch, Discord, Reddit (bientôt Telegram & Whats
 
 📢 Plateformes
 
-🎥 YouTube : tutoriels & making-of
+🎥 [YouTube]@https://www.youtube.com/@Djibril-h2r : tutoriels & making-of
 
 🎮 Itch.io : mes jeux
 
-💬 Discord & Twitch : communauté active
+💬 Discord, Reddit, [Twitch]@https://www.twitch.tv/gamehooper_studio : communauté active
 
-🌍 Réseaux : Facebook, Instagram, TikTok, Twitter
+🌍 [Portfolio]@https://sites.google.com/view/gamehooper?usp=sharing 
 
 💡 "Je code, je crée, je partage – et je rêve grand."
