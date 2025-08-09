@@ -1,3 +1,4 @@
+![Ma bannière](https://github.com/gamehooperstudio/gamehooperstudio/blob/main/bani%C3%A8re.png)
 👋 Salut, je suis Djibril
 
 🎯 Objectif : Travailler dans une grande industrie du jeu vidéo, en combinant mes passions pour le développement, la création 3D et la musique.
