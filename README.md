@@ -1,4 +1,5 @@
 👋 Salut, je suis Djibril
+
 🎯 Objectif : Travailler dans une grande industrie du jeu vidéo, en combinant mes passions pour le développement, la création 3D et la musique.
 
 💻 Spécialités & Intérêts
