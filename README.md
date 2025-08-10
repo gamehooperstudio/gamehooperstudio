@@ -30,13 +30,14 @@ Création de projets indés publiés sur itch.io
 Animation d’une communauté Twitch, Discord, Reddit (bientôt Telegram & WhatsApp)
 
 📢 Plateformes
+🌍 [Portfolio](https://sites.google.com/view/gamehooper?usp=sharing)
 
 🎥 [YouTube](https://www.youtube.com/@Djibril-h2r) : tutoriels & making-of
 
-🎮 Itch.io : mes jeux
+💬[Twitch](https://www.twitch.tv/gamehooper_studio), Discord, [Reddit](https://www.reddit.com/r/Gamehooper_Studio/),: communauté active
 
-💬 Discord, Reddit, [Twitch](https://www.twitch.tv/gamehooper_studio) : communauté active
+🎮 [Itch.io](https://gamehooper-studio.itch.io/), [Roblox](https://www.roblox.com/fr/users/8874496641/profile?friendshipSourceType=ProfileShare)  : mes jeux
 
-🌍 [Portfolio](https://sites.google.com/view/gamehooper?usp=sharing)
+
 
 💡 "Je code, je crée, je partage – et je rêve grand."
