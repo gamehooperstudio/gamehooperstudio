@@ -35,8 +35,8 @@ Animation d’une communauté Twitch, Discord, Reddit
 
 🎥 [YouTube](https://www.youtube.com/@Djibril-h2r) : tutoriels & making-of
 
-💬[Twitch](https://www.twitch.tv/gamehooper_studio), Discord, [Reddit](https://www.reddit.com/r/Gamehooper_Studio/),: communauté active
+💬[Twitch](https://www.twitch.tv/gamehooper_studio), Discord, [Reddit](https://www.reddit.com/r/Gamehooper_Studio/) : communauté active
 
-🎮 [Itch.io](https://gamehooper-studio.itch.io/), [Roblox](https://www.roblox.com/fr/users/8874496641/profile?friendshipSourceType=ProfileShare)  : mes jeux
+🎮 [Itch.io](https://gamehooper-studio.itch.io/), [Roblox](https://www.roblox.com/fr/users/8874496641/profile?friendshipSourceType=ProfileShare) : mes jeux
 
 💡 "Je code, je crée, je partage – et je rêve grand."
