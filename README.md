@@ -25,11 +25,12 @@ Suivi de deux roadmaps : ASP.NET Core Developer & Game Developer
 
 Développement de tutoriels sur mes domaines de prédilection
 
-Création de projets indés publiés sur itch.io
+Création de projets indés publiés sur itch.io, Roblox
 
-Animation d’une communauté Twitch, Discord, Reddit (bientôt Telegram & WhatsApp)
+Animation d’une communauté Twitch, Discord, Reddit
 
 📢 Plateformes
+
 🌍 [Portfolio](https://sites.google.com/view/gamehooper?usp=sharing)
 
 🎥 [YouTube](https://www.youtube.com/@Djibril-h2r) : tutoriels & making-of
@@ -37,7 +38,5 @@ Animation d’une communauté Twitch, Discord, Reddit (bientôt Telegram & Whats
 💬[Twitch](https://www.twitch.tv/gamehooper_studio), Discord, [Reddit](https://www.reddit.com/r/Gamehooper_Studio/),: communauté active
 
 🎮 [Itch.io](https://gamehooper-studio.itch.io/), [Roblox](https://www.roblox.com/fr/users/8874496641/profile?friendshipSourceType=ProfileShare)  : mes jeux
-
-
 
 💡 "Je code, je crée, je partage – et je rêve grand."
