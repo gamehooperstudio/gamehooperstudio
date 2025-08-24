@@ -33,7 +33,7 @@ Animation d’une communauté Twitch, Discord, Reddit
 
 🌍 [Portfolio](https://sites.google.com/view/gamehooper?usp=sharing)
 
-🎥 [YouTube](https://www.youtube.com/@Djibril-h2r) : tutoriels & making-of
+🎥 [YouTube](https://www.youtube.com/@GameHooperStudio) : tutoriels & making-of
 
 💬[Twitch](https://www.twitch.tv/gamehooper_studio), [Discord](https://discord.gg/yPfzagQ9HK), [Reddit](https://www.reddit.com/r/Gamehooper_Studio/) : communauté active
 
