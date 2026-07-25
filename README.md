@@ -3,7 +3,7 @@
 
 📢 Plateformes
 
-🌍 [Portfolio](https://sites.google.com/view/gamehooper?usp=sharing)
+🌍 [Portfolio](https://djibril-kounta-portfolio-aqaeghhherezfygc.canadaeast-01.azurewebsites.net/)
 
 🎥 [YouTube](https://www.youtube.com/@GameHooperStudio) : tutoriels & making-of
 
